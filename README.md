@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **a.koraishi2000@gmail.com**
+- 📫 How to reach me: **a.koraishi2000@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1859hiPJxRLo2dcdrAQIYto1HMwDVMV2Kcw0QFMzvN10/edit?usp=sharing](https://docs.google.com/document/d/1859hiPJxRLo2dcdrAQIYto1HMwDVMV2Kcw0QFMzvN10/edit?usp=sharing)
 
